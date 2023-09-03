@@ -1,1 +1,4 @@
 # Repositorio-JavaScript
+
+
+# Repositorio-TypeScript
